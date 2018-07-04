@@ -1,0 +1,21 @@
+.bg-toprow {
+  background-color: #54aea9;
+}
+
+.media-1 p {
+  font-size: 1rem;
+}
+
+.media .gear-img {
+  padding-right: 2%;
+}
+
+.top-media {
+  margin: 0;
+  padding-top: 3rem;
+  color: white;
+}
+
+.fa-cog {
+  padding-right: 2%;
+}
