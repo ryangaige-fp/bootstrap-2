@@ -19,6 +19,12 @@
 
 .media-1 p {
   font-size: 1rem;
+  padding-top: 0.5rem;
+  line-height: 1.4;
+}
+
+.image-cards p {
+  letter-spacing: 3px;
 }
 
 .media .gear-img {
@@ -39,8 +45,18 @@
 }
 
 .fa-cog {
-  padding-top: 2%;
-  padding-right: 2%;
+  padding-top: 1rem;
+  padding-right: 1rem;
+}
+
+.fa-image {
+  padding-top: 1rem;
+  padding-right: 1rem;
+}
+
+.fa-camera {
+  padding-top: 1rem;
+  padding-right: 1rem;
 }
 
 /*Buttons*/
@@ -62,4 +78,8 @@
 
 .card-img-top {
   border: 5px solid white;
+}
+
+.email-form {
+  padding-top: 0.5rem;
 }
