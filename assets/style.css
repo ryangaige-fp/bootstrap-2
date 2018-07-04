@@ -1,3 +1,8 @@
+.container-fluid {
+  padding-right: 10rem;
+  padding-left: 10rem;
+}
+
 .bg-toprow {
   background-color: #54aea9;
 }
@@ -13,9 +18,28 @@
 .top-media {
   margin: 0;
   padding-top: 3rem;
+  padding-bottom: 3rem;
   color: white;
 }
 
 .fa-cog {
+  padding-top: 2%;
   padding-right: 2%;
+}
+
+/*Buttons*/
+.row-1-button {
+  background-color: white;
+  color: #54aea9;
+  border-radius: 0;
+}
+
+.row-2-button {
+  background-color: #54aea9;
+  color: white;
+  border-radius: 0;
+}
+
+.image-cards {
+  color: blue;
 }
