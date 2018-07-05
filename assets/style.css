@@ -72,6 +72,12 @@
   border-radius: 0;
 }
 
+.button-submit {
+  background-color: white;
+  color: #54aea9;
+  border-radius: 0;
+}
+
 .image-cards {
   color: #3e7db7;
 }
@@ -80,6 +86,38 @@
   border: 5px solid white;
 }
 
-.email-form {
+.email-form-design {
+  border-radius: 0rem;
+}
+.email-form-padding {
   padding-top: 0.5rem;
+}
+
+.border-right h6 {
+  font-size: 1rem;
+  text-align: right;
+  padding-right: 2rem;
+}
+
+.email-center-title h6 {
+  font-size: 1rem;
+  line-height: 1.2rem;
+  color: white;
+}
+.email-row-font {
+  color: white;
+}
+
+.mb-2 {
+  border-radius: 0rem;
+}
+
+.form-row > .col,
+.form-row > [class*="col-"] {
+  padding-right: 1px;
+  padding-left: 1px;
+}
+
+.fourth-row-design {
+  padding-top: 1rem;
 }
