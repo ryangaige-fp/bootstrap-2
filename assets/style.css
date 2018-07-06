@@ -154,3 +154,9 @@ body {
   display: flex;
   flex-wrap: nowrap;
 }
+/* .list-inline ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+} */
